@@ -1,0 +1,7 @@
+timestamp,nome,data_nascimento,idade,telefone,convenio,prioridade,motivo
+2026-10-03 11:25:19,Maria,12/03/1985,41,(32) 99886-4321,Unimed,2,Consulta de rotina
+2026-10-03 11:25:50,João Pereira,05/07/1952,74,(11) 91234-5678,Particular,5,Dor no peito há 2 horas
+2026-10-03 11:29:07,Malu,,29,,Bradesco Saúde,3,Retorno com exames
+2026-10-03 11:30:11,Todi Henrique,20/11/2010,15,(21) 98883-6655,SulAmérica,4,Febre alta e tosse
+2026-10-24 11:41:46,Luiza Vale,06/01/1989,37,32988234632,Particular,4,Dor de dente
+2026-10-24 11:45:12,Camila,01/01/2016,10,35988223566,Particular,3,Espinhela Caída
